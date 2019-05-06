@@ -18,7 +18,7 @@
 # 项目
  - 仿小米官网 [（项目预览）](https://misi1995.github.io/xiaomi/)[（代码地址）](https://github.com/misi1995/xiaomi)：包含了鼠标事件、轮播图、css3动画等等。
   - 仿中岚签证（bootstrap） [（项目预览）](https://misi1995.github.io/zhonglan/)[（代码地址）](https://github.com/misi1995/zhonglan)：利用bootstrap编写的自适应网页
-  - 简易博客（vue） [（项目预览）](https://misi1995.github.io/blog/dist)[（代码地址）](https://github.com/misi1995/blog)：利用vue-cli编写的简易的vue项目，bootstrap进行了样式设计，使用了vue-router、axios等相关技术。  （因为使用了firebase，所以需要翻墙）    
+  - 简易博客（vue） [（项目预览）](https://misi1995.github.io/blog/dist)[（代码地址）](https://github.com/misi1995/blog)：利用vue-cli编写的简易的vue项目，bootstrap进行了样式设计，使用了vue-router、axios等相关技术。  （因为使用了firebase，所以需要翻墙),功能包括：浏览博客，查看博客详情，编辑以及删除博客等。  
 # 工作、实习经历
 - 2016.4 学院院网页设计大赛
 学院举行了院内的网页设计大赛。小组决定课题为介绍院各个部门的职责分配以及人员分布情况。分配的任务为部分网页添加css样式，并添加js代码实现交互。最终获得院网页设计大赛二等奖，提升了对前端的兴趣，精进了前端编程技术。
